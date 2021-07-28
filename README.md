@@ -1,6 +1,6 @@
 # Creative Design
 
-Uma start-up de design! Você pode acessar em: https://miguel-galdino.github.io/CreativeDesign/
+Uma startup de design! Você pode acessar em: https://miguel-galdino.github.io/CreativeDesign/
 
 Vamos ao site!
 
